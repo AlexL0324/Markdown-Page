@@ -68,4 +68,4 @@
 ---
 
 **Navigation:**  
-[← Previous: PlayStation Evolution](playstation-evolution.md) | [Back to Home](README.md) | [Next: Console Comparison →](console-comparison.md)
+[← Previous: PlayStation Evolution](playstation-evolution.md) | [Back to Home](README.md) 
