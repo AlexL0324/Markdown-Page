@@ -1,22 +1,27 @@
 # Markdown-Page
 How Hw4, markdown page
 
-# ☕ Coffee Brewing Methods Guide
+# 🎮 Video Game Consoles History & Guide
 
-## Featured Brewing Methods
-- **[French Press](french-press.md)** - Rich and full-bodied
-- **[Pour Over](pour-over.md)** - Clean and nuanced
-- **[AeroPress](aeropress.md)** - Versatile and quick
-- **[Espresso](espresso.md)** - Concentrated and intense
-- **[Cold Brew](cold-brew.md)** - Smooth and refreshing
+## Console Generations
+- **[Nintendo History](nintendo-history.md)** - From NES to Switch
+- **[PlayStation Evolution](playstation-evolution.md)** - PS1 to PS5
+- **[Xbox Generations](xbox-generations.md)** - Original to Series X/S
+- **[Retro Consoles](retro-consoles.md)** - Atari, Sega, Classic Systems
+- **[Handheld Consoles](handheld-consoles.md)** - Game Boy to Steam Deck
 
-## Quick Comparison Table
-| Method | Brew Time | Difficulty | Flavor Profile |
-|--------|-----------|------------|----------------|
-| French Press | 4-5 min | 🟢 Easy | Bold, Rich |
-| Pour Over | 2-3 min | 🟡 Medium | Clean, Bright |
-| AeroPress | 1-2 min | 🟢 Easy | Smooth, Versatile |
-| Espresso | 25-30 sec | 🔴 Hard | Intense, Concentrated |
-| Cold Brew | 12-24 hrs | 🟢 Easy | Smooth, Low Acid |
+## Console Comparison
+| Console | Release Year | Best-Selling Game | Units Sold |
+|---------|--------------|-------------------|------------|
+| PlayStation 2 | 2000 | GTA: San Andreas | 155M+ |
+| Nintendo DS | 2004 | New Super Mario Bros. | 154M+ |
+| Nintendo Switch | 2017 | Mario Kart 8 Deluxe | 125M+ |
+| PlayStation 4 | 2013 | God of War | 117M+ |
+| Xbox 360 | 2005 | Kinect Adventures | 84M+ |
 
-> **Pro Tip**: Start with freshly roasted beans and grind right before brewing!
+## Quick Navigation
+- [Gaming Timeline](gaming-timeline.md)
+- [Console Comparison Chart](console-comparison.md)
+- [About This Project](about.md)
+
+> **Did you know?** The PlayStation was originally planned as a Nintendo add-on before becoming its own console!
